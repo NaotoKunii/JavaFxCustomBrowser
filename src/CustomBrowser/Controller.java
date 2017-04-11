@@ -1,4 +1,4 @@
-package sample;
+package CustomBrowser;
 
 public class Controller {
 }
